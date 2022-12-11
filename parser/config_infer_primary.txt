@@ -2,7 +2,7 @@
 gpu-id=0
 net-scale-factor=0.0039215697906911373
 model-color-format=0
-model-engine-file=yolov5s.engine
+model-engine-file=yolov7_tiny.engine
 labelfile-path=labels.txt
 num-detected-classes=1
 interval=0
